@@ -1,5 +1,4 @@
 
-
 /* Chris */
     html, body {
         font-family: Arial;
@@ -28,3 +27,39 @@
 
 
 /* Marcus */
+li {
+    padding-bottom: 10px;
+}
+
+a {
+    text-decoration: none;  
+}
+
+a:hover {
+    color: white;
+}
+
+img {
+    border-radius: 50px;
+}
+
+img:hover {
+    opacity: .5;
+}
+
+table {
+    border: 1px solid darkgrey;
+}
+
+th {
+    border: 1px solid darkgrey;
+}
+
+td {
+    border-right: solid darkgrey;
+}
+
+#hello-world {
+    background-color: darkslategrey;
+    color: white;
+}
