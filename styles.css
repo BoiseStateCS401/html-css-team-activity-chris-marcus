@@ -1,9 +1,7 @@
-body {
-    background-color: lightgrey;
-}
+
 
 /* Chris */
-    html {
+    html, body {
         font-family: Arial;
         background-color: blue; 
 
