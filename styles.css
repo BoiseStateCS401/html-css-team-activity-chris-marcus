@@ -12,7 +12,7 @@
         text-align: center; 
     }
 
-    p {
+    p, a {
         color: orange;
     }
     
