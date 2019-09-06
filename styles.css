@@ -23,7 +23,7 @@
 
      li {
         color: orange;
-        list-style-type: lower-latin;
+        list-style-type: square; 
      }
 
 
@@ -63,4 +63,8 @@ td {
 #hello-world {
     background-color: darkslategrey;
     color: white;
+}
+
+#sublist {
+    list-style-type: lower-latin;
 }
