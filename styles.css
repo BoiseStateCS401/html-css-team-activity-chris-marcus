@@ -1,22 +1,19 @@
-body {
-    background-color: lightgrey;
-    font-family: 'Ubuntu';
-}
 
 /* Chris */
-    html {
+    html, body {
         font-family: Arial;
         background-color: blue; 
 
     }
 
     h1,h2,h3,h4 {
+        color: orange;
         font-family: Impact;
         font-size: 22;
         text-align: center; 
     }
 
-    p {
+    p, a, th, td, tr, table {
         color: orange;
     }
     
