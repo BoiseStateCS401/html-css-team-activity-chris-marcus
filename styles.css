@@ -13,7 +13,7 @@
         text-align: center; 
     }
 
-    p, a {
+    p, a, td {
         color: orange;
     }
     
