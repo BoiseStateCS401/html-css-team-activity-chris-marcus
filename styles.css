@@ -3,5 +3,30 @@ body {
 }
 
 /* Chris */
+    html {
+        font-family: Arial;
+        background-color: blue; 
+
+    }
+
+    h1,h2,h3,h4 {
+        font-family: Impact;
+        font-size: 22;
+        text-align: center; 
+    }
+
+    p {
+        color: orange;
+    }
+    
+    em {
+        color: orangered;
+     }
+
+     li {
+        color: orange;
+        list-style-type: lower-latin;
+     }
+
 
 /* Marcus */
